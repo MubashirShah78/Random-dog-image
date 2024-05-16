@@ -1,2 +1,2 @@
-# Netflix-clone
-This is Netflix Clone Web for practice 
+# Random Dogs image Genrater
+Random Dogs image Genrater
